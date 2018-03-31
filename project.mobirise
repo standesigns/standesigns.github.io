@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Stan",
+    "name": "Stan Designs",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -37,7 +37,7 @@
     "uniqCompNum": 13,
     "versionPublish": "4.6.2",
     "path": "@PROJECT_PATH@",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/sd-web-title-logo-128x128.png",
     "noImageResize": "",
     "screenshot": "screenshot.png"
   },
